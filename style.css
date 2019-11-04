@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+* {
+margin: 0;
+padding: 0;
+color: #000;
+font-family: Verdana, "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+}
+
+img {
+vertical-align: bottom;
+}
+
+ul {
+margin: 20px;
+}
+
+li {
+margin-bottom: 30px;
+border-bottom: 1px solid #eeeeee;
+list-style-type: none;
+}
+
+h2 {
+margin: 15px 0;
+color: #c02020;
+cursor: pointer;
+}
+
+.inner {
+padding: 1px 0;
+display: none;
+}
+
+.close {
+margin: 10px 0;
+padding: 10px;
+background: #202020;
+color: #ffffff;
+cursor: pointer;
+}
